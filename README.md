@@ -1,1 +1,1 @@
-# Jurij-Alexejevi-Gagarin
+# Jurij-Alexejevic-Gagarin
