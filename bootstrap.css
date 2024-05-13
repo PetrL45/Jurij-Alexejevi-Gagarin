@@ -60,8 +60,8 @@ small {
   font-size: 80%; }
 
 a {
-  color: #3A3F44;
-  text-decoration: none;
+  color: #54a8fc;
+  text-decoration: underline;
   background-color: transparent; }
   a:hover {
     color: #17191b;
@@ -141,31 +141,6 @@ fieldset {
   padding: 0;
   margin: 0;
   border: 0; }
-
-[type="number"]::-webkit-inner-spin-button,
-[type="number"]::-webkit-outer-spin-button {
-  height: auto; }
-
-
-[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none; }
-
-::-webkit-file-upload-button {
-  font: inherit;
-  -webkit-appearance: button; }
-
-output {
-  display: inline-block; }
-
-summary {
-  display: list-item;
-  cursor: pointer; }
-
-template {
-  display: none; }
-
-[hidden] {
-  display: none !important; }
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
